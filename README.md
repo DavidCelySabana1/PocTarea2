@@ -1,2 +1,2 @@
-# PocTarea2
-Poc de micro servicio
+# PocMicroservicios
+Repositorio para la poc en microservicios
